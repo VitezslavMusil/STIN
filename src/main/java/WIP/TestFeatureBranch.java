@@ -9,5 +9,5 @@ package WIP;
  * @author Vutuch
  */
 public class TestFeatureBranch {
-    
+
 }
